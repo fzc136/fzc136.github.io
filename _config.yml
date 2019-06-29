@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Fred E. Carriles / Behavior Analyst"
 title_separator          : "-"
 name                     : &name "Fred E. Carriles"
-description              : &description "Graduate Student / Research Oriented / Radical Behaviorist"
+description              : &description "Graduate Student / Research Oriented / Behavior Analust"
 url                      : https://fzc136.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fzc136/fzc136.github.io"
+repository               : "https://fzc136/fzc136.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
