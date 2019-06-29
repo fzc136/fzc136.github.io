@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fred C."
-  avatar           : "profile.png"
-  bio              : "Graduate Student, Behavior Analyst, & Behavioral Researcher
-  location         : "Harrisburg, PA"
+  name             :  "Fred C."
+  avatar           :  "profile.png"
+  bio              :  "Graduate Student, Behavior Analyst, & Behavioral Researcher
+  location         :  "Harrisburg, PA"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -94,11 +94,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fzc136"
+  github           :  "fzc136"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : 
@@ -107,7 +107,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : ## "replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
